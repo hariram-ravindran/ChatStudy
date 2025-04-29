@@ -109,7 +109,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
-![435372473-0326c79d-5acb-4896-b10f-f688ece617ec](https://github.com/user-attachments/assets/dfb2babd-d941-45a2-a658-d4a84142d762)
+![435372473-0326c79d-5acb-4896-b10f-f688ece617ec](https://github.com/user-attachments/assets/2b8c5ff5-2689-4ef0-88ce-77c8e8df6090)
 
 
 ## Result:
