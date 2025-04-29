@@ -98,7 +98,7 @@ if ack:
     print(ack)
  
 c.close()
-
+```
 Server:
 ```
 import socket 
